@@ -1,0 +1,17 @@
+# ambientes virtuais e segredos
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# a pasta inicio ja tem repositorio proprio (basic-python)
+inicio/
+
+# arquivo gerado pelo exercicio de requests (HTML do Google)
+API/files/
