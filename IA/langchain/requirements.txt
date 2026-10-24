@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+jupyterlab
+python-dotenv
+langchain-ollama
+langchain-core
+langchain-classic
