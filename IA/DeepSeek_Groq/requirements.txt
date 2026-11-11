@@ -5,3 +5,5 @@ groq
 langchain_groq
 jupyter
 streamlit
+fastapi
+uvicorn
